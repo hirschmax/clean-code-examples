@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="432a1c86-cbf5-4207-8908-2e885628e7b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/dip/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/dip/bad/DatabaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/dip/bad/InventoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/dip/good/DatabaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/dip/good/FileSystemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/dip/good/InventoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/dip/good/StorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/isp/bad/OnlineClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/isp/bad/RestaurantInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/isp/good/OnlineClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/isp/good/OnlineClientInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/isp/good/WalkInCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/isp/good/WalkInCustomerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/lsp/bad/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/lsp/bad/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/lsp/bad/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/lsp/good/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/lsp/good/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/lsp/good/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/lsp/good/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/lsp/good/Walkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/ocp/bad/AccountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/ocp/bad/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/ocp/good/FixedTermAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/ocp/good/OvernightAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/ocp/good/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/srp/bad/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/srp/good/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/hirschm/solid/srp/good/TimeSheetReport.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Xvgx7SKKtQGk9bis4YwqPaxwZW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.hirschm.solid.lsp.good" />
+      <recent name="com.github.hirschm.solid.lsp.bad" />
+      <recent name="com.github.hirschm.solid.isp.good" />
+      <recent name="com.github.hirschm.solid.ocp.good" />
+      <recent name="com.github.hirschm.solid.srp.good" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="432a1c86-cbf5-4207-8908-2e885628e7b3" name="Changes" comment="" />
+      <created>1699515214225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699515214225</updated>
+      <workItem from="1699515216411" duration="2572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
